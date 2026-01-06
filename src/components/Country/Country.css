@@ -1,0 +1,23 @@
+.country{
+    border: 2px solid purple;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: teal;
+    box-shadow: 5px 5px 15px gray;
+    color: white;
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+
+}
+
+.country img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+.country-visited {
+    background-color: orange;
+    color: black;
+}
